@@ -119,6 +119,8 @@ Scaling improved the performance of distance-based classification, while ordinar
 ```text
 Sure-Tomorrow-Insurance-ML/
 ├── notebook.ipynb
+├── insurance_us.csv
+├── requirements.txt
 └── README.md
 ```
 
